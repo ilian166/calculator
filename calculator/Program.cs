@@ -23,7 +23,7 @@ namespace calculator
         }
 
         static void start()
-        {
+        { 
             Console.Write("kérem az első számot: ");
             number_one = Convert.ToInt32(Console.ReadLine());
             Console.Write("kérem a második számot: ");
