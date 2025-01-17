@@ -72,6 +72,10 @@ namespace calculator
             result = number_one * number_two;
         }
 
+        static void divison()
+        {
+            result = number_one / number_two;
+        }
 
 
         
