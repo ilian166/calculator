@@ -67,6 +67,12 @@ namespace calculator
             result = (number_one - number_two);
         }
 
+        static void multipication()
+        {
+            result = number_one * number_two;
+        }
+
+
 
         
 
