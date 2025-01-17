@@ -77,6 +77,11 @@ namespace calculator
             result = number_one / number_two;
         }
 
+        static void modular()
+        {
+            result = (number_one / number_two)*100;
+        }
+
 
         
 
