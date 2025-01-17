@@ -62,6 +62,12 @@ namespace calculator
 
         }
 
+        static void  subtraction()
+        {
+            result = (number_one - number_two);
+        }
+
+
         
 
     }
